@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(218, 236, 183);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(66, 6, 114);
+  font-size: 48px;
+}
+
+.recepies {
+  list-style-type: none;
+  font-size: 30px
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
